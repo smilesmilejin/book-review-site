@@ -1,0 +1,54 @@
+a {
+    color: black;
+}
+
+a:hover {
+    color:blue;
+}
+
+body {
+    font:Helvetica
+}
+
+footer{
+    background-color: aqua;
+    border: 2px solid;
+}
+
+
+
+h1 {
+    background-color: green;
+    border: 3px solid;
+}
+
+
+h2 {
+    background-color: purple;
+}
+
+h3 {
+    background-color:plum;
+}
+
+ul {
+    list-style-type: none;
+}
+
+section {
+    background-color: lightcoral;
+}
+
+.book-title {
+    font-style: italic;
+}
+
+/* @import url('https://fonts.googleapis.com/css2?family=Share+Tech&family=Underdog&display=swap'); */
+.website-title {
+  font-family: "Underdog", system-ui;
+  font-size: 50px;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  background-color: beige;
+}

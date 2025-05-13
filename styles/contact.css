@@ -1,0 +1,17 @@
+nav {
+    padding-bottom: 20px;
+}
+body {
+    text-align: center;
+}
+
+img {
+    /* round corner */
+    border-radius: 30%;
+    background-color: white;
+    width: 260px;
+}
+
+section {
+    padding-top: 20px;
+}
